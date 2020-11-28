@@ -2,7 +2,7 @@
 	'use strict';
 
 	var objA = {
-		str1: "this is string 1"
+		str1: "Das ist komplett neu"
 	};
 
 	var objB = {
